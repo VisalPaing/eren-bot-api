@@ -15,7 +15,7 @@ Discord: Meezy#0226
 Promise Based!
 ```js
 const meezy = require('./index.js')
-const ai = new alexa();
+const ai = new meezy();
 
 ai.getReply('Hello', 'spanish').then(reply => {
     console.log(reply)
@@ -31,7 +31,7 @@ getReply(<message>, <language>)
 Async / Await
 ```js
 const  meezy  =  require('./meezy.js')
-const  ai  =  new  alexa()
+const  ai  =  new  meezy()
 
 async  function  main(){
 const  reply  =  await  ai.getReply('How are you mate?', 'tamil');
