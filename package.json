@@ -1,0 +1,28 @@
+{
+  "name": "@meezy/alexa-bot-api",
+  "version": "1.0.0",
+  "description": "this is api made by eren",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VisalPaing/eren-bot-api.git"
+  },
+  "author": "visal paing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VisalPaing/eren-bot-api/issues"
+  },
+  "homepage": "https://github.com/VisalPaing/eren-bot-api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "eren",
+    "ai",
+    "bot"
+  ]
+}
