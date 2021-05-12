@@ -9,7 +9,7 @@ https://discord.gg/5qzsfbK3HG
 [Paing Visal](https://github.com/VisalPaing) <br>
 Discord: Meezy#0226
 
-**Whats new in v1.0.5**
+**Whats new in v1.0.7**
 - Minor bug fixes
 
 Promise Based!
