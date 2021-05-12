@@ -1,2 +1,2 @@
-const alexa = require(__dirname + "/meezy.js");
-module.exports = alexa;
+const meezy = require(__dirname + "/meezy.js");
+module.exports = meezy;

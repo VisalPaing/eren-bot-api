@@ -1,4 +1,4 @@
-class Alexa {
+class Meezy {
     constructor() {
       /**
        * @type {require("./ai.js")}
@@ -20,5 +20,5 @@ class Alexa {
     }
   }
   
-  module.exports = Alexa;
+  module.exports = Meezy;
   
